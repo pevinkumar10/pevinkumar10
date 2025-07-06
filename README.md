@@ -7,15 +7,15 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pevinkumar/) 
 
+## TryHackme profile:
+<img src="https://tryhackme-badges.s3.amazonaws.com/pevinkumar.png" alt="Your TryHackMe Badge" />
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pevinkumar10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pevinkumar10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pevinkumar10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pevinkumar10&theme=github_dark)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pevinkumar10&theme=github_dark)
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pevinkumar10&theme=github_dark)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=pevinkumar10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pevinkumar10&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
